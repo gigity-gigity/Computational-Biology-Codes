@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.DS_Store
+# data & outputs — code only, no data
+*.xtc
+*.trr
+*.dcd
+*.pdb
+*.gro
+*.xvg
+*.csv
+*.log
